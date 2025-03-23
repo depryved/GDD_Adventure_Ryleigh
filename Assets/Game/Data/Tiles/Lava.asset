@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: Lava
   m_EditorClassIdentifier: 
-  Sprite: {fileID: 0}
+  Sprite: {fileID: -8045072511086890256, guid: 945d04e9013883840bb0572f4cff7961, type: 3}
   TileEffect: 4
-  ColorTint: {r: 1, g: 0.41536966, b: 0.18679237, a: 1}
+  ColorTint: {r: 1, g: 1, b: 1, a: 1}

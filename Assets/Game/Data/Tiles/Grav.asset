@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: Grav
   m_EditorClassIdentifier: 
-  Sprite: {fileID: -3280857339140121840, guid: ae8bbdfa2878aca4e8f343345ebd0641, type: 3}
+  Sprite: {fileID: -4618869973758980683, guid: ce5ab0b7e2fc5284b8fe12d6caf544e6, type: 3}
   TileEffect: 0
   ColorTint: {r: 1, g: 1, b: 1, a: 1}

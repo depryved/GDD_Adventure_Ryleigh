@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: 9eae74adb3918af4aab253c323121f5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - IdleAnimationData: {instanceID: 0}
+  - WalkAnimationData: {instanceID: 0}
+  - DeathAnimationData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
